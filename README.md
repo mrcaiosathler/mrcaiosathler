@@ -13,7 +13,7 @@
 <h1 align="center">Hey there 👋</h1>
 
 <h3 align="left">👩‍💻  About me</h3>
-<p align="left">I'm Caio Sathler, from Brazil. An economist passionate about data and football, studying how to improve athletes, teams and organizations performance through data.<br><br>- 🔭 I’m working as an information analyst @Info4.<br>- 📚 Currently a Serratec Data resident.<br>- ⚡ In my free time I read (both fantasy and technical books), watch some movies and love to watch football matches.</p>
+<p align="left">I'm Caio Sathler, from Brazil. An economist passionate about data and football, studying how to improve athletes, teams and organizations performance through data.<br><br>- 🔭 I’m working as an information analyst @Info4.<br>- 📚 Currently a Serratec Data resident.<br>- ⚡ In my free time I read (both fantasy and technical) books, watch some movies and love to watch football matches.</p>
 
 ###
 
