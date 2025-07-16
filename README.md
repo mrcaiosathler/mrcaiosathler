@@ -12,56 +12,55 @@
 
 <h1 align="center">Hey there 👋</h1>
 
-<h3 align="left">👩‍💻  About me</h3>
-<p align="left">I'm Caio Sathler, from Brazil. An economist passionate about data and football.<br><br>- 🔭 I’m working as an information analyst @Info4.<br>- 📚 Currently a Serratec Data resident.<br>- ⚡ In my free time I read (both fantasy and technical) books, watch some movies and love to watch football matches.</p>
+# Caio Sathler 🚀  
+**Economista em transição para a área de Dados**  
+Python • SQL • Modelagem de Dados • Análise Quantitativa • Visualização • Machine Learning
 
-###
+---
 
-<h3 align="left">🛠 Language and tools</h3>
+## 👨‍💻 Sobre mim
 
-###
-<img align="right" height="150" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaHM4cGp2ZHNrbWFnN3R5eXZ5MHB5MG8xanFvYjVvanIyaDI1MnRqbSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/y6KpddmP1XOsM8gzct/giphy.gif"  />
+Sou economista em transição estruturada para a área de Dados, com forte base em estatística, modelagem quantitativa e projetos voltados à análise de desempenho, otimização e inteligência aplicada à gestão.
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" height="30" alt="r logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="30" alt="docker logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="30" alt="jupyter logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" height="30" alt="visualstudio logo"  />
+Atualmente participo da Residência em TIC com Ênfase em Dados (Serratec), onde venho desenvolvendo habilidades práticas em Python, SQL, engenharia e modelagem de dados, além de análise exploratória, machine learning e visualização de informações.
 
-###
+Tenho interesse por projetos que envolvam análise de indicadores, eficiência operacional, clusterização, organização e tratamento de dados para apoiar decisões com base em evidências.
 
-<h3 align="left">💬 How to reach me</h3>
+---
 
-###
-<div align="left">
-  <a href="https://www.linkedin.com/in/caiosathler/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
-  </a>
-  <a href="https://www.instagram.com/mrcaiosathler/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
-  </a>
-  <a href="https://discordapp.com/users/mrcaiosathler" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
-  </a>
-  <a href="mailto:sathler.caio@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
-  </a>
-</div>
+## 🧠 Tecnologias e Ferramentas
 
-###
+- **Linguagens**: Python, SQL  
+- **Bibliotecas e Frameworks**: Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn, Plotly
+- **Metodologias**: Análise exploratória, pipelines, documentação, boas práticas de código
 
-<h3 align="left">🔥   My Stats :</h3>
+---
 
-###
+## 📌 Projetos em destaque
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mrcaiosathler&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mrcaiosathler&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
-</div>
+🔹 [serratec_analista02] 
+Projeto aplicado durante a Residência em TIC (Serratec), com foco em ingestão, limpeza e modelagem de dados.
 
-###
+🔹 [Machine-Learning-UC1]  
+Atividades práticas com algoritmos supervisionados e não supervisionados, incluindo modelos de classificação e regressão.
+
+🔹 [Clusterização e DEA (acadêmico)]  
+Projeto de clusterização de ativos financeiros, avaliação de eficiência (DEA) e otimização de carteiras com base em Markowitz.
+
+*(em breve: notebooks explicativos e dashboards interativos dos projetos)*
+
+---
+
+## 🌱 Em desenvolvimento contínuo
+
+Atualmente aprofundando conhecimentos em:
+- Engenharia de dados e orquestração com Airflow e dbt
+- Práticas de governança, documentação e pipelines em ambientes colaborativos
+- Construção de portfólios de dados orientados a problemas reais
+
+---
+
+## 📫 Contato
+
+- ✉️ sathler.caio@gmail.com  
+- 💼 [LinkedIn](https://linkedin.com/in/caiosathler)
